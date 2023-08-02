@@ -27,13 +27,11 @@ class Amazon():
 
 class INDEx():
 	def __new__ (self):
-    print("[...] Initialization")
-    print("[...] Loading requests library")
-    print("""
+		print("""
 		
 Script Started - 
-				By dank.pls (github)
-		contact me.ts!
+				By @dank.pls
+		contact 
 		
 		""")
 
